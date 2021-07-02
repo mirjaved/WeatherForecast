@@ -2,7 +2,7 @@
 
 This is a Weather app developed with Laravel 8 Framework. This app shows the weather of serached city.
 
-## ScreenShots
+## ScreenShot
 <img src="https://github.com/mirjaved/WeatherForecast/blob/main/Weather.jpg">
 
 ## License
